@@ -13,7 +13,7 @@ Our Data consists of HSI document images with pixels belonging to three classes 
 
 A few samples of the HSI document images dataset are below
 
-![image](https://github.com/user-attachments/assets/39db0098-3f96-4f83-b549-6f897921c0e7)
+![](https://github.com/user-attachments/assets/39db0098-3f96-4f83-b549-6f897921c0e7)
 
 Each Sample in our dataset consists of 240 channels making each pixel to an array of 240 indices. The above formulated pipeline focuses on segmenting the handwritten pixels along with the overlapping pixels belonging to the handwritten signature from the printed text and extracting the complete handwritten signature without any data loss at the overlappling points. The classes present in the dataset are also visualized in the figure below.
 
