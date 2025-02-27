@@ -1,0 +1,1 @@
+Download and unzip the the HSI dataset from https://drive.google.com/drive/folders/1FGNaeoz-N8xBWcCXx8ukU28B_0LU1NBR?usp=sharing
