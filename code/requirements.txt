@@ -1,0 +1,8 @@
+spectral
+rarfile
+pillow
+scipy
+pysptools
+SSIM_PIL
+image_similarity_measures
+pyfftw
